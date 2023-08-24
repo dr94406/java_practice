@@ -16,7 +16,7 @@ public class Createobject {
         animal.changeAnimalName("d o g 멍 멍");
         System.out.println(animal.name);
 
-        Animal cat = new Animal();
+        OOP.Animal cat = new Animal();
         cat.changeAnimalName("다 시 고 양 이! ");
         System.out.println(cat.name);
 
